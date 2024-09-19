@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "df"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "Digital Forensics 2024 Labs"
+authors = ["Denis Fedosov <denis.fedosov@etu.unige.ch>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
