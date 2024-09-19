@@ -1,2 +1,2 @@
-# digital_forensics
+# Digital Forensics
 Digital Forensics 2024

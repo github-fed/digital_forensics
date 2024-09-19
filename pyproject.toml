@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "df"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pillow = "^10.4.0"
+numpy = "^2.1.1"
+opencv-python = "^4.10.0.84"
+scikit-image = "^0.24.0"
+lpips = "^0.1.4"
+torch = "^2.4.1"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
